@@ -1,0 +1,6 @@
+.done-item{
+    color: black;/*黑色：事件完成*/
+}
+.no-item{
+    color: gray;/*灰色：事件未完成*/
+}
